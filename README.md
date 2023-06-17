@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming ,exploring new technologies and living a purposeful life.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on commclassroom
-- 📫 Reach me out on [instagram](https://instagram.org/027_it1); [Twitter](https://twitter.com/0Jasneetsingh); 
+- 📫 Reach me out on [instagram](https://instagram.org/027_it1); [Twitter](https://twitter.com/0Jasneetsingh); [LinkedIn](https://www.linkedin.com/in/jasneet-singh-278707210/);
 - My [Google Developer profile](https://g.dev/jasalltime);
 
   😄😀
